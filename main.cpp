@@ -3,7 +3,7 @@
 #include <string>
 #include <Windows.h>
 
-// дндекюрэ янпрхпнбйс он юктюбхрс!!!
+// Alphabet sorting not finished
 
 
 class Address
